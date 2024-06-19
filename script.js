@@ -61,7 +61,7 @@ btnRoll.addEventListener('click', function () {
 
     // Shows the dice
     dice.classList.remove('hidden');
-    dice.src = `dice-${diceNum}.jpg`;
+    dice.src = `assets/dice-${diceNum}.jpg`;
 
     // When dice number is not 1, adds dice to current score
     if (diceNum > 1) {
