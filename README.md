@@ -77,4 +77,4 @@ This file contains the JavaScript code that powers the "Clash of Dices." Here's 
 
 **The programming is well organized, follows best practices for keeping HTML, CSS and JavaScript separate, for clarity. In the JavaScript file strict mode is. DOM manipulation is used to keep the game running and providing interactive expxerience for players.**
 
-**The most comfortable way to preview HTML files on GitHub is to go to 'https://htmlpreview.github.io/' and then enter URL of the HTML file to preview.**
+**Link for preview: 'https://htmlpreview.github.io/?https://github.com/fahim-ysr/Clash-of-Dices/blob/main/index.html'**
