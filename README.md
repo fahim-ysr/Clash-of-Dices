@@ -10,12 +10,12 @@
 </html>
 
 
-index.html
+**index.html**
 
 This is the HTML file that structures the web page for the 'Clash of Dices.'
 
 
-style.css
+**style.css**
 
 This file contains the CSS styles for the "Clash of Dices." Here's a breakdown of the different sections:
 
@@ -45,7 +45,7 @@ This file contains the CSS styles for the "Clash of Dices." Here's a breakdown o
         - Positions elements, like dice images, buttons and winner styles using positioning. 
 
 
-script.js
+**script.js**
 
 This file contains the JavaScript code that powers the "Clash of Dices." Here's a breakdown of the different sections:
 
