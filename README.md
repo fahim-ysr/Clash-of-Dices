@@ -2,6 +2,7 @@
 
 **'Clash of Dices' is a two-player dice game where players take turns rolling dice and accumulating points. The objective is to be the first player to reach a target score, typically 100 points.**
 
+
 <!DOCTYPE html>
 <html lang="en">
   <body>
@@ -9,6 +10,11 @@
   </body>
 </html>
 
+
+**Game Logic:**
+
+In Clash of Dices, two players take turns rolling a single six-sided dice. On each turn, a player can roll the dice multiple times, accumulating the sum of the rolls to their "current" score. However, if a player rolls a 1, their "current" score resets to 0, and their turn ends. Players can choose to "hold" their "current" score, which adds it to their "total" score, and passes the turn to the other player. The first player to reach or exceed the target score of 100 points wins the game. Players must strategically decide when to hold their "current" score and when to keep rolling the dice to accumulate more points without risking a roll of 1 and losing their turn's progress.
+___
 
 **index.html**
 
