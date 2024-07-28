@@ -3,12 +3,7 @@
 **'Clash of Dices' is a two-player dice game where players take turns rolling dice and accumulating points. The objective is to be the first player to reach a target score, typically 100 points.**
 
 
-<!DOCTYPE html>
-<html lang="en">
-  <body>
-      <img src="demo.png" alt="Playing dice" />
-  </body>
-</html>
+[![Watch the video](demo.png)](https://youtu.be/aohOW69VJcc)
 
 
 **Game Logic:**
