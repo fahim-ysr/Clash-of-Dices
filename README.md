@@ -8,7 +8,7 @@
 
 <br>
 
-[![Watch the video](demo.png)](https://youtu.be/HG0hkbsfgZ4)
+[![Watch the video](demo-new.png)](https://youtu.be/HG0hkbsfgZ4)
 
 ___
 
